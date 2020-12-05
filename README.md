@@ -38,12 +38,12 @@ Modules.  You will want to make sure all homework and quizzes are completed befo
 | ----------------------------------------------------------------------------------------------------------- | --------------- |
 | Introduction                                                                                                |   30 Mins       |   
 | [Create Live Id Accounts](https://outlook.live.com/owa/)                                                    |   30 Mins       |
-| [Create Microsoft Imagine Accounts](https://imagine.microsoft.com/en-us/?WT.mc_id=cloudpoweredsyllabus-github-pdecarlo)                                    |   30 Mins       |
-| [Create Microsoft Learn Accounts](https://docs.microsoft.com/en-us/learn/?WT.mc_id=cloudpoweredsyllabus-github-pdecarlo)                                  |   30 Mins       |
-| [Introduction to Azure](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/?WT.mc_id=cloudpoweredsyllabus-github-pdecarlo)                   |   1 hour        |
-| [Deploy Windows VM](https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/?WT.mc_id=cloudpoweredsyllabus-github-pdecarlo)|   1 hour        |
+| [Create Microsoft Imagine Accounts](https://imagine.microsoft.com/?WT.mc_id=iot-0000-pdecarlo)                                    |   30 Mins       |
+| [Create Microsoft Learn Accounts](https://docs.microsoft.com/learn/?WT.mc_id=iot-0000-pdecarlo)                                  |   30 Mins       |
+| [Introduction to Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=iot-0000-pdecarlo)                   |   1 hour        |
+| [Deploy Windows VM](https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/?WT.mc_id=iot-0000-pdecarlo)|   1 hour        |
 | [Brainstorming Website Ideas](/Day1/Homework/DesignDocument.md)                                             |   1 hour        |
-| [Deploy WordPress Instance on Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/WordPress.WordPress/?WT.mc_id=cloudpoweredsyllabus-github-pdecarlo) |   1 hour |
+| [Deploy WordPress Instance on Azure](https://azuremarketplace.microsoft.com/marketplace/apps/WordPress.WordPress/?WT.mc_id=iot-0000-pdecarlo) |   1 hour |
 | Work on Website and Design Documents                                                                        |    1 hour       |
     
     
