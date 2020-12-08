@@ -37,12 +37,12 @@ Modules.  You will want to make sure all homework and quizzes are completed befo
 | [Day 1](/Day1)                                                                                              |  Suggested Time |
 | ----------------------------------------------------------------------------------------------------------- | --------------- |
 | Introduction                                                                                                |   30 Mins       |
-| [Create Azure Accounts](https://microsoft.sharepoint.com/:f:/t/MIS4397-UniversityofHouston/EtAxikyoNAtBqLXJKyoDolcBIKpguizZMwc8S1ezjCDY2w?e=6U1S6u) |   30 Mins       |
-| [Create Microsoft Imagine Accounts](https://imagine.microsoft.com/?WT.mc_id=iot-10260-pdecarlo)                                   |   30 Mins       |
-| [Create Microsoft Learn Accounts](https://docs.microsoft.com/learn/?WT.mc_id=iot-10260-pdecarlo)                                  |   30 Mins       |
-| [Enroll in Cloud Skills Challenge](https://www.microsoft.com/en-us/cloudskillschallenge/Public/Contests/3f2737dd-d102-4243-a76b-c657d029f4b6/Register) | 30 Mins
-| [Enroll in Deep Learning Institue](https://www.nvidia.com/en-us/deep-learning-ai/education/)                |    30 Mins          |
-| [Presentation - Intro to Azure](/Day1/Content)
+| [Create Azure Accounts](https://microsoft.sharepoint.com/:f:/t/MIS4397-UniversityofHouston/EtAxikyoNAtBqLXJKyoDolcBIKpguizZMwc8S1ezjCDY2w?e=6U1S6u) |   15 Mins       |
+| [Create Microsoft Imagine Accounts](https://imagine.microsoft.com/?WT.mc_id=iot-10260-pdecarlo)                                   |   15 Mins       |
+| [Create Microsoft Learn Accounts](https://docs.microsoft.com/learn/?WT.mc_id=iot-10260-pdecarlo)                                  |   15 Mins       |
+| [Enroll in Cloud Skills Challenge](https://www.microsoft.com/en-us/cloudskillschallenge/Public/Contests/3f2737dd-d102-4243-a76b-c657d029f4b6/Register) | 15 Mins
+| [Enroll in Deep Learning Institue](https://www.nvidia.com/en-us/deep-learning-ai/education/)                |    15 Mins          |
+| [Presentation - Intro to Azure](/Day1/Content)                                                              |    15 Mins          |
 | [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=iot-10260-pdecarlo)                   |   1 hour        |
 | [Deploy Windows VM](https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/?WT.mc_id=iot-10260-pdecarlo)|   1 hour        |
 | [Brainstorming Website Ideas](/Day1/Homework/DesignDocument.md)                                             |   1 hour        |
