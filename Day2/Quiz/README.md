@@ -10,7 +10,7 @@ Name:
 	
 	2.) If we put PHP code on the server in an appropriate way, it should execute since PHP is available
 	
-	Now consider, the Prolog programming language is not supported on Azure PaaS.  That said, there are ways to deploy / run  Prolog applications into Microsoft Azure.  
+	Now consider, the Prolog programming language is not supported on Azure PaaS.  That said, there are ways to deploy and run Prolog applications in Microsoft Azure.  
 	
 	Similar to above, in 2 steps, describe how you might run a Prolog application on Microsoft Azure (Hint: IaaS)?
 
