@@ -37,7 +37,7 @@ Modules.  You will want to make sure all homework and quizzes are completed befo
 | [Day 1](/Day1)                                                                                              |  Suggested Time |
 | ----------------------------------------------------------------------------------------------------------- | --------------- |
 | Introduction                                                                                                |   30 Mins       |
-| [Create Azure Accounts](https://microsoft.sharepoint.com/teams/MIS4397-UniversityofHouston) |   15 Mins       |
+| [Create Azure Accounts](https://microsoft.sharepoint.com/:f:/r/teams/MIS4397-UniversityofHouston/Shared%20Documents/General/Azure%20Account%20Access?csf=1&web=1&e=mfM7yT) |   15 Mins       |
 | [Create Microsoft Learn Accounts](https://docs.microsoft.com/learn/?WT.mc_id=iot-10260-pdecarlo)                                  |   15 Mins       |
 | [Enroll in Cloud Skills Challenge](https://www.microsoft.com/en-us/cloudskillschallenge/Public/Contests/3f2737dd-d102-4243-a76b-c657d029f4b6/Register) | 15 Mins
 | [Enroll in Microsoft Imagine Cup](https://imaginecup.microsoft.com/?WT.mc_id=iot-10260-pdecarlo)                                   |   15 Mins       |
