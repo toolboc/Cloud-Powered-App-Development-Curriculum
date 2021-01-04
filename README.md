@@ -43,7 +43,7 @@ Modules.  You will want to make sure all homework and quizzes are completed befo
 | [Enroll in Microsoft Imagine Cup](https://imaginecup.microsoft.com/?WT.mc_id=iot-10260-pdecarlo)                                   |   15 Mins       |
 | [Enroll in Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/)                |    15 Mins          |
 | [Presentation - Intro to Azure](/Day1/Content)                                                              |    15 Mins          |
-| [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=iot-10260-pdecarlo)                   |   1 hour        |
+| [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=iot-10260-pdecarlo)                   |   1 hour        |
 | [Deploy Windows VM](https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/?WT.mc_id=iot-10260-pdecarlo)|   1 hour        |
 | [Brainstorming Website Ideas](/Day1/Homework)                                             |   1 hour        |
 | [Deploy WordPress Instance on Azure](https://azuremarketplace.microsoft.com/marketplace/apps/WordPress.WordPress/?WT.mc_id=iot-10260-pdecarlo) |   1 hour |
