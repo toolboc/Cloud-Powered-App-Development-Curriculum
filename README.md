@@ -45,7 +45,7 @@ Modules.  You will want to make sure all homework and quizzes are completed befo
 | [Presentation - Intro to Azure](/Day1/Content)                                                              |    15 Mins          |
 | [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=iot-10260-pdecarlo)                   |   1 hour        |
 | [Deploy Windows VM](https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/?WT.mc_id=iot-10260-pdecarlo)|   1 hour        |
-| [Brainstorming Website Ideas](/Day1/Homework/DesignDocument.md)                                             |   1 hour        |
+| [Brainstorming Website Ideas](/Day1/Homework)                                             |   1 hour        |
 | [Deploy WordPress Instance on Azure](https://azuremarketplace.microsoft.com/marketplace/apps/WordPress.WordPress/?WT.mc_id=iot-10260-pdecarlo) |   1 hour |
 | Work on Website and Design Documents                                                                        |    1 hour       |
 | [MS Learn Modules](/Day1/Modules)                                                                           |    1 hour       |
