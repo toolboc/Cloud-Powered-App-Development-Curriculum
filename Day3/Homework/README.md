@@ -1,6 +1,6 @@
 Today you have learned about the exciting world of the Internet of Things.  Now it is your turn to create a compelling IoT solution! 
 
-  At minimum, your ida should have:  
+  At minimum, your idea should have:  
 
 1. A clear purpose  
 2. Compelling description  
