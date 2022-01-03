@@ -39,7 +39,7 @@ Modules.  You will want to make sure all homework and quizzes are completed befo
 | Introduction                                                                                                |   30 Mins       |
 | [Create Azure Accounts](https://microsoft.sharepoint.com/:f:/t/MIS4397-UniversityofHouston/EtAxikyoNAtBqLXJKyoDolcBIKpguizZMwc8S1ezjCDY2w?e=6U1S6u) |   15 Mins       |
 | [Create Microsoft Learn Accounts](https://docs.microsoft.com/learn/?WT.mc_id=iot-10260-pdecarlo)                                  |   15 Mins       |
-| [Enroll in Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=b99c9309-f375-40a9-b136-ceff971c01b7?WT.mc_id=iot-10260-pdecarlo) | 15 Mins
+| [Enroll in Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=b99c9309-f375-40a9-b136-ceff971c01b7&WT.mc_id=iot-10260-pdecarlo) | 15 Mins
 | [Enroll in Microsoft Imagine Cup](https://imaginecup.microsoft.com/?WT.mc_id=iot-10260-pdecarlo)                                   |   15 Mins       |
 | [Enroll in Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/)                |    15 Mins          |
 | [Presentation - Intro to Azure](/Day1/Content)                                                              |    15 Mins          |
